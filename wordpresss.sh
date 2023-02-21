@@ -10,4 +10,4 @@ docker-compose version
 sudo git clone https://github.com/shalu212/wordpress-script.git
 sudo chmod 666 /var/run/docker.sock
 cd wordpress-script
-sudo docker-compose up -d
+
